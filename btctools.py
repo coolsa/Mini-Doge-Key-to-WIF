@@ -7,7 +7,7 @@ digits58 = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
 was contributed by JeromeS at BitcoinTalk.org
 https://bitcointalk.org/index.php?topic=84238.0
 The version used is contributed by ConceptPending at github
-https://github.com/ConceptPending/PythonBTCTools
+https://github.com/ConceptPending/PythonBTCTools 
 """
 
 def minwif(numpriv):
