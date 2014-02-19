@@ -10,7 +10,7 @@ Usage is simple. In python prompt, just use the following commands.
 or
 
     >>> from dogetools import pupimp
-    >>> pumpimp('your brainkey here')
+    >>> pumpimp('your puppykey here')
     'Invalid Puppykey'
 
 
